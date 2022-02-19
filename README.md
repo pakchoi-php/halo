@@ -24,10 +24,14 @@
 ## Spotting
 ### 2022 
 ### 2021 
-* [] () **()**
-* [] () **()**
+* [Facial Action Unit-based Deep Learning Framework for Spotting
+Macro- and Micro-expressions in Long Video Sequences] (https://dl.acm.org/doi/10.1145/3474085.3479209) **(IEEE 2021)**code
+*[LGAttNet: Automatic micro-expression detection using dual-stream
+local and global attentions](file:///D:/wuchenxi_file/%E8%AE%BA%E6%96%87/%E5%B7%B2%E8%AF%BB/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BD%91%E7%BB%9CLGAttNet%20Automatic%20micro_expression%20detection%20using%20dual-stream.pdf)
+
 ### 2020
 * [Spatio-temporal fusion for Macro- and Micro-expression Spotting in Long Video Sequences](https://ieeexplore.ieee.org/document/9320153)
+* [Local Temporal Pattern and Data Augmentation for Micro-Expression Spotting](https://ieeexplore.ieee.org/document/9195783)
 ### 2019
 ## Generation
 ### 2022 
